@@ -22,9 +22,9 @@ Se usó como base el carousel de [Reactstrap](https://6-4-0--reactstrap.netlify.
 ### Info con bootstrap 
 Mediante el uso de clases de React Bootstrap se realizó un componente Info responsive que muestra tras recorrer un array de objetos JSON una imagen con su información en una fila.
 ## Enlaces que me han ayudado
-## [ReactStrap](https://reactstrap.github.io/?path=/story/home-installation--page)
+### [ReactStrap](https://reactstrap.github.io/?path=/story/home-installation--page)
 
-## [React Bootstrap](https://react-bootstrap.github.io/)
+### [React Bootstrap](https://react-bootstrap.github.io/)
 
-## [GeeksforGeeks](https://www.geeksforgeeks.org/)
+### [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
