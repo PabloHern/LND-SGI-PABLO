@@ -14,5 +14,17 @@ Se usó como base el footer de [GeeksforGeeks](https://www.geeksforgeeks.org/how
 
 Se usó como base el header de [React Bootstrap](https://react-bootstrap.github.io/components/navbar/#containers).
 
+### Carousel con bootstrap 
+
+Se usó como base el carousel de [Reactstrap](https://6-4-0--reactstrap.netlify.app/components/carousel/).
+
 ## Componentes propios
+### Info con bootstrap 
+Mediante el uso de clases de React Bootstrap se realizó un componente Info responsive que muestra tras recorrer un array de objetos JSON una imagen con su información en una fila.
 ## Enlaces que me han ayudado
+##[ReactStrap](https://reactstrap.github.io/?path=/story/home-installation--page)
+
+##[React Bootstrap](https://react-bootstrap.github.io/)
+
+##[GeeksforGeeks](https://www.geeksforgeeks.org/)
+
