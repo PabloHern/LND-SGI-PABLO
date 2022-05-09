@@ -1,27 +1,27 @@
-# Página inicial Sabios Guías Intérpretes
+# SGI Main Page
 
-Esta página sirve como inicio para la página de la asociación de [Sabios Guías Intérpretes](https://www.sabiosguiasinterpretes.com/).
+This page works as the main page of the [Sabios Guías Intérpretes](https://www.sabiosguiasinterpretes.com/) association.
 
-## Componentes de terceros
+## Third Party Components
 
-Los componentes de terceros que han sido usados son los siguientes:
+The third party components used in this project are the following:
 
-### Footer de GeeksforGeeks
+### GeeksforGeeks's footer
 
-Se usó como base el footer de [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-a-simple-responsive-footer-in-react-js/).
+The [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-a-simple-responsive-footer-in-react-js/) was used as a template.
 
-### Header con bootstrap 
+### React Bootstrap's header
 
-Se usó como base el header de [React Bootstrap](https://react-bootstrap.github.io/components/navbar/#containers).
+The [React Bootstrap](https://react-bootstrap.github.io/components/navbar/#containers) header was used as a template.
 
-### Carousel con bootstrap 
+### Carousel with Bootstrap
 
-Se usó como base el carousel de [Reactstrap](https://6-4-0--reactstrap.netlify.app/components/carousel/).
+The[Reactstrap](https://6-4-0--reactstrap.netlify.app/components/carousel/) carousel was used as a template.
 
-## Componentes propios
-### Info con bootstrap 
-Mediante el uso de clases de React Bootstrap se realizó un componente Info responsive que muestra tras recorrer un array de objetos JSON una imagen con su información en una fila.
-## Enlaces que me han ayudado
+## Own components
+### Responsive info
+An Info component that displays an image along with it's info in a row that is stored in a JSON object array was made using bootstrap classes to make it responsive.
+## Helpful links
 ### [ReactStrap](https://reactstrap.github.io/?path=/story/home-installation--page)
 
 ### [React Bootstrap](https://react-bootstrap.github.io/)
