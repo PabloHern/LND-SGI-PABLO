@@ -10,10 +10,9 @@ Los componentes de terceros que han sido usados son los siguientes:
 
 Se usó como base el footer de [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-a-simple-responsive-footer-in-react-js/).
 
-### Header
+### Header con bootstrap 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Se usó como base el header de [React Bootstrap](https://react-bootstrap.github.io/components/navbar/#containers).
 
 ## Componentes propios
 ## Enlaces que me han ayudado

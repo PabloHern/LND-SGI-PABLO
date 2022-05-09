@@ -18,15 +18,11 @@ const Footer = () => {
         marginTop: "-50px",
         backgroundColor: "white",
         opacity: "0.75",
-        marginLeft: "550px",
-        marginRight: "550px"
       }}>
         Sabios Guías Intérpretes
       </h1>
       <Container>
         <Row>
-          <Column>
-          </Column>
           <Column>
             <Heading>Contacte con nosotros</Heading>
             <FooterLink href="https://www.sabiosguiasinterpretes.com/">Sabios Guías Intérpretes</FooterLink>
